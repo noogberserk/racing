@@ -1,0 +1,31 @@
+<level width="240" height="320">
+  <FrontWalls tileset="NewTileset0" exportMode="XMLCoords" />
+  <Objects />
+  <SideWalls tileset="NewTileset0" exportMode="XMLCoords">
+    <tile x="2" y="3" tx="0" ty="0" />
+    <tile x="2" y="4" tx="0" ty="0" />
+    <tile x="3" y="4" tx="0" ty="0" />
+    <tile x="3" y="5" tx="0" ty="0" />
+    <tile x="4" y="5" tx="0" ty="0" />
+    <tile x="4" y="6" tx="0" ty="0" />
+    <tile x="5" y="6" tx="0" ty="0" />
+    <tile x="5" y="7" tx="0" ty="0" />
+    <tile x="6" y="7" tx="0" ty="0" />
+    <tile x="6" y="8" tx="0" ty="0" />
+    <tile x="7" y="8" tx="0" ty="0" />
+    <tile x="7" y="9" tx="0" ty="0" />
+    <tile x="8" y="9" tx="0" ty="0" />
+    <tile x="8" y="10" tx="0" ty="0" />
+    <tile x="9" y="10" tx="0" ty="0" />
+    <tile x="9" y="11" tx="0" ty="0" />
+    <tile x="10" y="11" tx="0" ty="0" />
+    <tile x="10" y="12" tx="0" ty="0" />
+    <tile x="11" y="13" tx="0" ty="0" />
+    <tile x="11" y="14" tx="0" ty="0" />
+    <tile x="12" y="14" tx="0" ty="0" />
+    <tile x="12" y="15" tx="0" ty="0" />
+    <tile x="12" y="16" tx="0" ty="0" />
+    <tile x="13" y="16" tx="0" ty="0" />
+    <tile x="13" y="17" tx="0" ty="0" />
+  </SideWalls>
+</level>

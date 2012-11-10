@@ -1,0 +1,12 @@
+<level width="240" height="320">
+  <SideWalls tileset="NewTileset0" exportMode="XMLCoords">
+    <tile x="7" y="9" tx="0" ty="0" />
+    <tile x="7" y="10" tx="0" ty="0" />
+    <tile x="8" y="9" tx="0" ty="0" />
+    <tile x="8" y="10" tx="0" ty="0" />
+    <tile x="9" y="9" tx="0" ty="0" />
+    <tile x="9" y="10" tx="0" ty="0" />
+    <tile x="10" y="9" tx="0" ty="0" />
+    <tile x="10" y="10" tx="0" ty="0" />
+  </SideWalls>
+</level>
